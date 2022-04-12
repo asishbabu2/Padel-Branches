@@ -1,0 +1,34 @@
+09:21:49.234 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:21:49.261 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:09:17.010 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:09:17.038 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:09:53.481 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:09:53.521 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:43:13.373 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:43:13.419 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:44:13.837 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:44:13.863 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:44:34.820 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:44:34.857 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:46:43.994 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:46:44.025 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:47:05.707 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:47:05.743 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:48:24.187 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:48:24.211 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:50:48.082 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:50:48.111 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:51:10.318 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:51:10.353 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+12:51:27.520 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+12:51:27.547 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:17:15.172 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:17:15.199 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+11:21:44.006 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:21:44.042 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+11:50:47.153 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:50:47.174 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+11:52:43.936 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+11:52:43.950 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
+09:09:58.745 [main] INFO  GoPadelTest.GoPadelTest - Verifying successful login.
+09:09:58.768 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - vt@testvox.com  and password - vt@testvox.com
